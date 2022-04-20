@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VisualizeOurEarth/static/css/main.7ff5c87a.css",
+    "main.js": "/VisualizeOurEarth/static/js/main.6c583b27.js",
+    "static/js/787.f69ba945.chunk.js": "/VisualizeOurEarth/static/js/787.f69ba945.chunk.js",
+    "index.html": "/VisualizeOurEarth/index.html",
+    "main.7ff5c87a.css.map": "/VisualizeOurEarth/static/css/main.7ff5c87a.css.map",
+    "main.6c583b27.js.map": "/VisualizeOurEarth/static/js/main.6c583b27.js.map",
+    "787.f69ba945.chunk.js.map": "/VisualizeOurEarth/static/js/787.f69ba945.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff5c87a.css",
+    "static/js/main.6c583b27.js"
+  ]
+}
